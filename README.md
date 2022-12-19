@@ -1,5 +1,5 @@
-# Payroll-Management-System-Programmin-Fundamental
-Payroll Management System
+# Payroll-Management-System-Programming Fundamental
+# Payroll Management System
 A department is managing information of each teacher to calculate salary. In this context department is maintaining following information the file named: EmployeesManagementSystem.txt
 1.	Employee ID
 2.	Employee Name
